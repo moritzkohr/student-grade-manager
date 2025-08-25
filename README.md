@@ -256,7 +256,7 @@ java -cp "bin:test-bin:lib/junit-4.13.2.jar" org.junit.runner.JUnitCore TestSuit
 
 **Project Maintainer**: Moritz Kohr  
 **Email**: moritz.kohr@mail.de  
-**LinkedIn**: [Moritz Kohr](www.linkedin.com/in/moritz-r-kohr-b4a921333)  
+**LinkedIn**: [Moritz Kohr](https://linkedin.com/in/moritz-r-kohr-b4a921333)  
 **GitHub**: [@moritzkohr](https://github.com/moritzkohr)
 
 ---
