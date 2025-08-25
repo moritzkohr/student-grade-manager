@@ -261,4 +261,4 @@ java -cp "bin:test-bin:lib/junit-4.13.2.jar" org.junit.runner.JUnitCore TestSuit
 
 ---
 
-*Built with ❤️ for educational excellence*
+*Built with ❤ for educational excellence*
